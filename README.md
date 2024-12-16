@@ -56,6 +56,10 @@ References:
 - Icon https://gist.github.com/rxaviers/7360908
 - Jokes https://github.com/ABSphreak/readme-jokes
 
+TODO: Add my fav quote
+<h3>Favorite Quote</h3>
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 Here are some ideas to get you started:
 
