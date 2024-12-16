@@ -3,9 +3,9 @@
 <p>Welcome to my page! </br> I'm Quang, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width="15"/> <b>Ho Chi Minh City, Viet Nam</b></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ntquang98/ntquang98/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ntquang98/ntquang98/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ntquang98/ntquang98/output/github-snake.svg" />
 </picture>
 
 <h3>Things I code with</h3>
@@ -40,6 +40,12 @@
 </p>
 <!--
 **ntquang98/ntquang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+References:
+- Create badges https://shields.io/badges/endpoint-badge
+- Badge icon https://simpleicons.org/?q=x
+- Badge icon ref https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+
 
 Here are some ideas to get you started:
 
