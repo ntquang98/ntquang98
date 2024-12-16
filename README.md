@@ -42,6 +42,10 @@
   <a href="https://x.com/TrngQuangNguyn9" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-090909?&style=for-the-badge&logo=x&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/ntquang98" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+<!-- HTML -->
+<h3>Bye👋🏻</h3>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!--
 **ntquang98/ntquang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,6 +53,8 @@ References:
 - Create badges https://shields.io/badges/endpoint-badge
 - Badge icon https://simpleicons.org/?q=x
 - Badge icon ref https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+- Icon https://gist.github.com/rxaviers/7360908
+- Jokes https://github.com/ABSphreak/readme-jokes
 
 
 Here are some ideas to get you started:
