@@ -68,7 +68,7 @@ TODO: Add my fav quote
 <h3>Favorite Quote</h3>
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+Git animal https://www.gitanimals.org/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
